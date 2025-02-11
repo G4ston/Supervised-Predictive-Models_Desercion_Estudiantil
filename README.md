@@ -48,3 +48,5 @@ The dataset is important because it allows educational institutions to identify 
 
 ## Conclusion
 This project demonstrates the application of various Machine Learning techniques to predict student dropout. The results indicate that ensemble-based models, such as LightGBM and Random Forest, are the most effective for this task. This type of analysis is crucial for educational institutions seeking to improve their retention rates and student success.
+
+## Authors: Gastón Peña, Ignacio Linari, Jose Chelquer, Leonardo Iula.
